@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yunjia1999
+- 👋 Hi, I’m Yunjia Hu.
 - 👀 I’m interested in Freerunning.
 - 🌱 I’m currently learning flying.
 - 📫 How to reach me yunjia@umich.edu
