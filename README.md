@@ -1,5 +1,5 @@
 
-Writing, Biology, Medicine, Architectural Engineering, Mathematics (Geometry)
+Biology, Medicine, Architectural Engineering, Mathematics (Geometry)
 
 <!---
 Yunjia1999/Yunjia1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
